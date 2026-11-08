@@ -20,15 +20,15 @@
 
 ## 📂 Featured Projects
 
-### 🧵 [Ghurza](https://github.com/MustafaSalah2001/HeritageAI) · [Live demo](http://ghurza.runasp.net/)
+### 🧵 [Ghurza](https://github.com/MustafaSalah2001/HeritageAI) 
 Marketplace connecting Palestinian embroidery artisans with buyers: artisan profiles, custom orders, order tracking and reviews.  
 `ASP.NET Core` `Clean Architecture` `EF Core` `JWT (3 roles)` `React` `TypeScript`
 
-### 👗 [VAELO Atelier](https://github.com/MustafaSalah2001/vaelo-website) · [Live demo](https://vaelo-website.vercel.app)
+### 👗 [VAELO Atelier](https://github.com/MustafaSalah2001/vaelo-website) 
 Full-stack fashion store with size and colour variants, stock checks, wholesale requests and an interactive 3D front end.  
 `ASP.NET Core 9 Web API` `EF Core` `SQL Server` `JWT` `React` `Three.js`
 
-### 👥 [Employee Management AI](https://github.com/MustafaSalah2001/EmployeeManagementAi) · [Live demo](http://hrr.runasp.net/)
+### 👥 [Employee Management AI](https://github.com/MustafaSalah2001/EmployeeManagementAi) 
 HR management system for employees and departments, with AI-assisted performance insights.  
 `ASP.NET Core MVC` `SQL Server` `EF Core`
 
@@ -40,7 +40,7 @@ Role-based e-learning platform with free programming courses for students (Admin
 REST API for managing books, members and borrowing.  
 `ASP.NET Core Web API` `EF Core` `SQL Server`
 
-### 🏗 [Al-Rimal Al-Tayeba](https://github.com/MustafaSalah2001/RemalTayibaCompany) · [Live demo](http://alremailaltiba.runasp.net/)
+### 🏗 [Al-Rimal Al-Tayeba](https://github.com/MustafaSalah2001/RemalTayibaCompany) 
 Multilingual corporate website for a contracting & trading company, with an admin dashboard to manage content.  
 `ASP.NET Core MVC` `SQL Server`
 
