@@ -32,10 +32,6 @@ Full-stack fashion store with size and colour variants, stock checks, wholesale 
 HR management system for employees and departments, with AI-assisted performance insights.  
 `ASP.NET Core MVC` `SQL Server` `EF Core`
 
-### 🎓 [ULearn](https://github.com/MustafaSalah2001/UlearnProject)
-Role-based e-learning platform with free programming courses for students (Admins, Teachers, Students).  
-`ASP.NET Core` `SQL Server` `EF Core`
-
 ### 📚 [Library Management API](https://github.com/MustafaSalah2001/library-management-api)
 REST API for managing books, members and borrowing.  
 `ASP.NET Core Web API` `EF Core` `SQL Server`
